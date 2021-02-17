@@ -1,0 +1,29 @@
+<Configuration>
+
+<Display Level="None" AcceptEULA="TRUE" />
+
+<Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+
+<Remove>
+
+<Product ID="O365ProPlusRetail">
+
+<Language ID="en-us" />
+
+</Product>
+
+<Product ID="O365ProPlusRetail">
+
+<Language ID="es-es" />
+
+</Product>
+
+<Product ID="O365ProPlusRetail">
+
+<Language ID="fr-fr" />
+
+</Product>
+
+</Remove>
+
+</Configuration>
