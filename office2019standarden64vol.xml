@@ -1,0 +1,14 @@
+<Configuration>
+    <Add
+        SourcePath="C:\office\"
+            OfficeClientEdition="64"
+            Channel="PerpetualVL2019"
+            AllowCdnFallback="True">
+        <Product ID="Standard2019Volume" PIDKEY="XXXXX-XXXXX-XXXXX-XXXXX-XXXXX" >
+            <Language ID="en-us" />
+        </Product>
+
+</Add>
+<RemoveMSI All="True" />
+<Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
