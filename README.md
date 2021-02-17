@@ -20,6 +20,8 @@ setup /configure <configuration.xml>
 
 Descriptions of XML files:
 
-Office 2019 Professional Plus x64 English Volume License = office2019proplusen64vol.xml
+Install Office 2019 Professional Plus x64 English Volume License = office2019proplusen64vol.xml
 
-Office 2019 Standard x64 English Volume License = office2019standarden64vol.xml
+Install Office 2019 Standard x64 English Volume License = office2019standarden64vol.xml
+
+Remove Office 365 Click-To-Run for languages en-us, es-es-, fr-fr (often preloaded on Windows 10) = remove.xml
